@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800" height="800" viewBox="300 280 800 800" xml:space="preserve">
+<desc>Created @ WordClouds.com</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#fff"></rect>
+<g transform="matrix(1 0 0 1 512 512)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,26,75); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-111.26" y="10.84" >Ubuntu Server</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 542 553)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(21,60,154); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-125.36" y="10.84" >Windows Server</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 472 472)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,26,75); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-79.87" y="10.84" >JavaScript</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 592 593)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(21,60,154); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-80.68" y="10.84" >TypeScript</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 452 432)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(222,142,9); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-100.48" y="10.84" >Visual Studio</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 582 413)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(86,154,66); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-73.49" y="10.84" >Bootstrap</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 622 402)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,26,75); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-86.22" y="10.84" >PowerShell</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 412 603)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(86,154,66); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-90.23" y="10.84" >SQL Server</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 612 633)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(21,60,154); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-58.15" y="10.84" >Node.js</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 662 372)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(86,154,66); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-76.7" y="10.84" >mongoDB</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 362 512)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,26,75); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-59.46" y="10.84" >Angular</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 392 393)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(222,142,9); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-44.91" y="10.84" >React</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 692 562)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(21,60,154); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-81.12" y="10.84" >.NET Core</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 482 393)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(222,142,9); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.52" y="10.84" >Jest</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 482 643)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(222,142,9); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-63.48" y="10.84" >EF Core</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 382 652)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(21,60,154); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.05" y="10.84" >C#</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 542 383)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(86,154,66); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.05" y="10.84" >Git</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 672 672)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(86,154,66); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.97" y="10.84" >Vue</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 342 683)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(21,60,154); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-46.57" y="10.84" >HTML</tspan></text>
+</g>
+<g transform="matrix(0 1 -1 0 622 693)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(222,142,9); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-38.08" y="10.84" >AWS</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 362 353)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="34.510121370785264" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,26,75); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.08" y="10.84" >CSS</tspan></text>
+</g>
+</svg>
