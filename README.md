@@ -1,2 +1,2 @@
 # jefffranczak.github.io
-Biography
+Jeff Franczak's professional biography
